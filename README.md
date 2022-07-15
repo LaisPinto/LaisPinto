@@ -4,7 +4,7 @@
 
 - 🎓 Hoje eu faço faculdade de Analise e Desenvolvimento de Sistemas
 - 💻 Atualmente estou estagiando na Instituição Financeira Cooperativa Sicredi
-- 📚 Estou estudando Python e Kotlin
+- 📚 Estou estudando Python, Java e Spring Boot
 - 📧 Contate-me no email: laisp19@hotmail.com
 
 <div align="center">
