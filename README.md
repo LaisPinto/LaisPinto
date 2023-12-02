@@ -3,7 +3,7 @@
 
 
 - 🎓 Hoje eu faço faculdade de Analise e Desenvolvimento de Sistemas
-- 💻 Atualmente estou estagiando na Edtech de Ensino Superior e Profissional +A Educação
+- 💻 Atualmente estou trabalhando na Edtech de Ensino Superior e Profissional +A Educação
 - 📚 Estou estudando Mobille Android 
 - 📧 Contate-me no email: laisp19@hotmail.com
 
