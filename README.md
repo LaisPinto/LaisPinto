@@ -2,7 +2,7 @@
 
 <p>
 🚀 <strong>Desenvolvedora Mobile Flutter (Dart)</strong> • Arquitetura modular • Offline-first • Design System (Material 3)<br/>
-📍 Brasil • <strong>Remoto</strong> • Aberta a oportunidades como <strong>Flutter Plenor</strong>
+📍 Brasil • <strong>Remoto</strong> • Aberta a oportunidades como <strong>Flutter Pleno</strong>
 </p>
 
 <p>
