@@ -1,56 +1,81 @@
-<h1>👋 Oi! Eu sou a Laís Pinto</h1>
+# Opa, tudo bem? Laís Pinto aqui!
 
-<p>
-🚀 <strong>Desenvolvedora Mobile Flutter (Dart)</strong> • Arquitetura modular • Offline-first • Design System (Material 3)<br/>
-📍 Brasil • <strong>Remoto</strong> • Aberta a oportunidades como <strong>Flutter Pleno</strong>
-</p>
+### Mobile Developer | Flutter | Firebase | REST API | BLoC | Provider | MobX | MVVM
 
-<p>
-Trabalho com desenvolvimento de aplicações mobile com foco em 
-<strong>qualidade de código, escalabilidade e experiência do usuário</strong>.<br/>
-Tenho vivência em <strong>apps de grande porte</strong>, integração com APIs, 
-<strong>estratégias offline (cache/download)</strong>, temas e design system 
-e boas práticas de engenharia.
-</p>
+Porto Alegre, Rio Grande do Sul, Brasil
+Aberta a novas oportunidades!
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laispintodasilva@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laís-pinto) [![Portfolio](https://img.shields.io/badge/Portfolio-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaisPinto)
 
+---
 
-<h2>💼 O que eu faço bem (na prática)</h2>
+### Sobre mim
 
-<ul>
-  <li><strong>Flutter & Dart</strong> em apps de escala (produtos com usuários reais)</li>
-  <li><strong>Arquitetura</strong> (Clean Architecture / modularização / separation of concerns)</li>
-  <li><strong>Offline-first</strong>: cache, download de conteúdo, persistência e sincronização</li>
-  <li><strong>Design System</strong> e tematização (Material 3, tokens, consistência visual)</li>
-  <li><strong>Estado e testes</strong>: MobX, testes unitários e qualidade contínua</li>
-  <li><strong>Integração com APIs REST</strong> e tratamento de erros/observabilidade</li>
-</ul>
+- Atuo como **Desenvolvedora Mobile Flutter**, focada na construção de aplicativos escaláveis, observáveis e resilientes, com forte preocupação em qualidade técnica, experiência do usuário e sustentabilidade de código em ambientes de produção.
+- Experiência com **Flutter, Dart, Android (Kotlin) e iOS (Swift)**, integração com APIs REST e arquitetura limpa.
+- Gerenciamento de estado com **MobX, Provider e BLoC**, práticas de Offline First e sincronização segura de dados.
+- Observabilidade ativa com **Sentry** e **Firebase Crashlytics**, e decisões técnicas baseadas em métricas via **Firebase Analytics** e **Google Analytics**.
+- Testes automatizados (unitários e de integração) integrados a pipelines de **CI/CD (Azure DevOps)**.
+- Qualidade de código com **SonarQube** para controle de débitos técnicos.
+- **Idiomas:** Português Nativo | Inglês (Elementary).
+- **Status:** Aberta a conversar com recrutadores e empresas que buscam uma pessoa desenvolvedora mobile Flutter com visão de produto e maturidade técnica.
 
+---
 
-<h2>📌 Projetos / Produtos</h2>
+### Tecnologias e Ferramentas
 
-<h3>📱 <a href="https://apps.apple.com/br/app/plataforma-a/id6473549251">Plataforma A</a></h3>
-<p>
-Aplicativo educacional que reúne disciplinas, calendário acadêmico, mensagens e envio de atividades em um único ambiente digital. 
-Permite acesso rápido a materiais didáticos, vídeos e exercícios, além de facilitar a comunicação com professores e colegas. 
-A proposta é tornar a jornada de aprendizado mais organizada, prática e envolvente.
-</p>
+**Mobile**
+[![Mobile](https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio)](https://skillicons.dev)
 
-<h3>📱 <a href="https://apps.apple.com/br/app/jaleko-curso-de-medicina/id1453744540">Jaleko – Curso de Medicina</a></h3>
-<p>
-Aplicativo educacional voltado para estudantes de Medicina, com acesso a milhares de videoaulas, questões comentadas e conteúdos organizados por tema. 
-Permite estudar de forma prática e direcionada, com recursos como busca inteligente e possibilidade de assistir aulas offline, facilitando a preparação para provas e concursos.
-</p>
+**Backend & Cloud**
+[![Backend](https://skillicons.dev/icons?i=firebase,azure,git,github)](https://skillicons.dev)
 
-<h3>📱 <a href="https://apps.apple.com/br/app/secad-educa%C3%A7%C3%A3o-continuada/id1488357511">Secad – Educação Continuada</a></h3>
-<p>
-Plataforma de educação continuada voltada para profissionais da saúde, oferecendo acesso a artigos, casos clínicos e conteúdos atualizados organizados por especialidade. 
-O aplicativo permite busca inteligente por temas, acesso a ciclos anteriores e recursos como resumos em áudio, anotações e marca-texto, facilitando o aprendizado contínuo de forma prática e acessível.
-</p>
+**Qualidade & Observabilidade**
+[![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)](https://sentry.io) [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarsource.com/products/sonarqube/) [![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://analytics.google.com)
 
+**Gerenciamento de Estado**
+`MobX` `Provider` `BLoC` `MVVM`
 
-<h2>🛠️ Stack</h2>
+---
 
-<p>
-<strong>Flutter • Dart • MobX • Modularização • REST • Git • CI/CD • Material 3 • Design System • Offline/Cache</strong>
-</p>
+### Experiência
+
+- **+A Educação** — Mobile Developer *(nov/2022 - dez/2025)*
+  Squad Core-App: desenvolvimento de apps híbridos (Flutter) e nativos (Kotlin/Swift) para a Plataforma de Experiência de Aprendizagem.
+- **Sicredi** — Estagiária CAS *(abr/2021 - out/2022)*
+  Infraestrutura em cloud, Infra-as-Code, automação e suporte a times de desenvolvimento.
+- **Getnet Brasil** — Estagiária *(set/2019 - abr/2021)*
+  Suporte e desenvolvimento mobile, certificação e testes de aplicativos.
+
+---
+
+### Formação Acadêmica
+
+- **Universidade do Vale do Rio dos Sinos (Unisinos)**
+  Tecnólogo, Análise e Desenvolvimento de Sistemas *(2023 - 2027)*
+- **QI Faculdade & Escola Técnica**
+  Tecnologia da Informação *(2017 - 2019)*
+
+---
+
+### Certificações
+
+- Desenvolvimento de Aplicativos Android usando Kotlin
+- Imersão Mobile
+
+---
+
+### Projetos em Destaque
+
+- **[Jaleko - Curso de Medicina](https://apps.apple.com/br/app/jaleko-curso-de-medicina/id1453744540):** app educacional com videoaulas e questões comentadas para estudantes de Medicina, com suporte a conteúdo offline.
+- **[Secad - Educação Continuada](https://apps.apple.com/br/app/secad-educa%C3%A7%C3%A3o-continuada/id1488357511):** plataforma de atualização profissional em saúde, com busca inteligente de conteúdo, resumos em áudio e anotações no app.
+- **[Plataforma A](https://apps.apple.com/br/app/plataforma-a/id6473549251):** app de estudos que dá acesso a disciplinas, calendário, mensagens e envio de atividades para alunos de instituições de ensino.
+
+---
+
+### Minhas Estatísticas
+
+[![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=LaisPinto&show_icons=true&theme=transparent&hide_border=true&locale=pt-br)](https://github.com/LaisPinto)
+[![Linguagens mais usadas](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LaisPinto&layout=compact&theme=transparent&hide_border=true&locale=pt-br)](https://github.com/LaisPinto)
+
+[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=LaisPinto&bg_color=transparent&color=707070&line=34A853&point=444444&hide_border=true)](https://github.com/LaisPinto)
