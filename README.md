@@ -5,7 +5,7 @@
 Porto Alegre, Rio Grande do Sul, Brasil
 Aberta a novas oportunidades!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laispintodasilva@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laís-pinto) [![Portfolio](https://img.shields.io/badge/Portfolio-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaisPinto)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:laisp19@hotmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/la%C3%ADs-pinto/) [![Currículo](https://img.shields.io/badge/Currículo-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1UpCz3DqXuM21ULipvWOoxni1oQuMM1j4/view?usp=sharing)
 
 ---
 
@@ -25,15 +25,19 @@ Aberta a novas oportunidades!
 ### Tecnologias e Ferramentas
 
 **Mobile**
+
 [![Mobile](https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio)](https://skillicons.dev)
 
 **Backend & Cloud**
+
 [![Backend](https://skillicons.dev/icons?i=firebase,azure,git,github)](https://skillicons.dev)
 
 **Qualidade & Observabilidade**
+
 [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)](https://sentry.io) [![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarsource.com/products/sonarqube/) [![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://analytics.google.com)
 
 **Gerenciamento de Estado**
+
 `MobX` `Provider` `BLoC` `MVVM`
 
 ---
